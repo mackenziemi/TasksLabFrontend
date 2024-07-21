@@ -1,0 +1,15 @@
+.users {
+    border: solid 1px black;
+    border-radius: 5px;
+    height: 300px;
+    margin: 5px;
+}
+
+.tasks {
+    border: solid 1px black;
+    border-radius: 5px;
+    height: 300px;
+    margin: 5px;
+}
+
+

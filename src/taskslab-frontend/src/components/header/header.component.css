@@ -1,0 +1,17 @@
+.header{
+    background-color: lightgreen;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5) ;
+    width: 100%;
+    height: 100px;
+    margin-left: auto
+    margin-right: auto; 
+}
+
+.header h2{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 40px;
+    font-family: Roboto, 'Segoe UI';
+    color: white;
+}
